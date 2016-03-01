@@ -1,0 +1,131 @@
+body {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: 10px;
+	padding: 0;
+}
+
+div {
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	background-color: #54C463;
+	border: 1px solid white;
+	text-align: center;
+	color: white;
+	font-size: 24px;
+	line-height: 80px;
+
+}
+
+div.reset {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.answer {
+	position: absolute;
+	width: 240px;
+	left: 80px;
+	top: -.5px;
+}
+
+.seven {
+	position: absolute;
+	left: 0px;
+	top: 80px;
+}
+
+.eight {
+	position: absolute;
+	top: 80px;
+	left: 80px;
+}
+
+.nine {
+	position: absolute;
+	top: 80px;
+	left: 160px;
+}
+
+.divide {
+	position: absolute; 
+	top: 80px;
+	left: 240px;
+	background-color: #B8F5A4;
+}
+
+.four {
+	position: absolute;
+	left: 0px;
+	top: 160px;
+}
+
+.five {
+	position: absolute;
+	left: 80px;
+	top: 160px;
+}
+
+.six {
+	position: absolute;
+	left: 160px;
+	top: 160px;
+}
+
+.multiply {
+	position: absolute;
+	left: 240px;
+	top: 160px;
+}
+
+.one {
+	position: absolute;
+	left: 0px;
+	top: 240px;
+}
+
+.two {
+	position: absolute;
+	left: 80px;
+	top: 240px;
+}
+
+.three {
+	position: absolute;
+	left: 160px;
+	top: 240px;
+}
+
+.minus {
+	position: absolute;
+	left: 240px;
+	top: 240px;
+}
+
+
+.zero {
+	position: absolute;
+	top: 320px;
+	left: 0px;
+}
+
+.dot {
+	position: absolute;
+	top: 320px;
+	left: 80px;
+}
+
+.equals {
+	position: absolute;
+	top: 320px;
+	left: 160px;
+}
+
+.plus {
+	position: absolute;
+	top: 320px;
+	left: 240px;
+}
